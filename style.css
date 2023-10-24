@@ -1,0 +1,15 @@
+body{
+    font-family: chess;
+    margin: 0;
+    background-color: black;
+
+}
+
+.square{
+    background: #000000;
+    display: inline-block;
+    border: 1px solid #fff;
+    text-align: center;
+    position: absolute;
+    cursor: pointer;
+}
