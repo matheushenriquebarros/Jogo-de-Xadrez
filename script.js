@@ -1,3 +1,4 @@
+/*! Desenvolvido por MTHBARROS · mthbarros.com.br | Agência Fellow Ship · agenciafellowship.com.br */
 window.onload = function(){
     var w = window.innerWidth || 360;
     var h = window.innerHeight || 500;
